@@ -1,14 +1,12 @@
 # laptop
 
 *
-
-
-*
 !.gitignore
 !.gitconfig
 
 # files
 !README.md
+!todo
 !notes
 !.bashrc
 !.zshrc
