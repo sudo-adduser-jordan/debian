@@ -1,4 +1,4 @@
-# debian
+# debian - laptop
 
 These are my dotfiles.
 
