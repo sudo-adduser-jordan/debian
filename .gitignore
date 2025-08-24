@@ -13,8 +13,8 @@
 
 # folders
 !Pictures
-!Pictures/gentoo
-!Pictures/gentoo/*
+!Pictures/debian
+!Pictures/debian/*
 !.icons
 !.themes
 # !.fonts
