@@ -77,5 +77,6 @@
         "yticklabels"
     ],
     "jupyter.askForKernelRestart": false,
-    "workbench.secondarySideBar.defaultVisibility": "hidden"
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "redhat.telemetry.enabled": false
 }
