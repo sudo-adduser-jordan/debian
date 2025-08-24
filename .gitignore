@@ -7,9 +7,9 @@
 
 # files
 !README.md
+!notes
 !.bashrc
 !.zshrc
-!appimage-install.sh
 
 # folders
 !Pictures
