@@ -32,6 +32,7 @@
         <value type="int" value="19"/>
         <value type="int" value="10"/>
         <value type="int" value="24"/>
+        <value type="int" value="14"/>
       </property>
       <property name="mode" type="uint" value="0"/>
       <property name="border-width" type="uint" value="5"/>
@@ -80,6 +81,7 @@
         <value type="string" value="chrome_status_icon_1"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="polkit-mate-authentication-agent-1"/>
         <value type="string" value="solaar"/>
         <value type="string" value="hp-systray"/>
         <value type="string" value="notifications"/>
@@ -275,5 +277,6 @@
     <property name="plugin-24" type="string" value="separator">
       <property name="style" type="uint" value="0"/>
     </property>
+    <property name="plugin-14" type="string" value="power-manager-plugin"/>
   </property>
 </channel>

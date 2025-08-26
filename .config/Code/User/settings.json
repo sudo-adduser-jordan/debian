@@ -8,30 +8,7 @@
     "workbench.colorCustomizations": {
         "terminal.background":"#000"
     },
-    "git.repositoryScanIgnoredFolders": [
-        "node_modules",
-        ".cache",
-        ".dotnet",
-        ".fonts",
-        ".dbus",
-        ".gnupg",
-        ".local"
-    ],
     "workbench.startupEditor": "none",
-    "explorer.fileNesting.patterns": {
-        "*.ts": "${capture}.js",
-        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-        "*.jsx": "${capture}.js",
-        "*.tsx": "${capture}.ts",
-        "tsconfig.json": "tsconfig.*.json",
-        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, bun.lockb, bun.lock",
-        "*.sqlite": "${capture}.${extname}-*",
-        "*.db": "${capture}.${extname}-*",
-        "*.sqlite3": "${capture}.${extname}-*",
-        "*.db3": "${capture}.${extname}-*",
-        "*.sdb": "${capture}.${extname}-*",
-        "*.s3db": "${capture}.${extname}-*"
-    },
     "workbench.colorTheme": "Theme Mix",
     "editor.inlayHints.enabled": "off",
     "[java]": {
@@ -43,7 +20,9 @@
     "window.confirmSaveUntitledWorkspace": false,
     "explorer.confirmPasteNative": false,
     "explorer.confirmDragAndDrop": false,
+
     "editor.defaultFormatter": "esbenp.prettier-vscode",
+    
     "git.openRepositoryInParentFolders": "always",
     "extensions.ignoreRecommendations": true,
     "editor.fontFamily": "\"Hack Nerd Font\", Consolas, monospace",
@@ -76,7 +55,12 @@
         "ylabel",
         "yticklabels"
     ],
+    
     "jupyter.askForKernelRestart": false,
     "workbench.secondarySideBar.defaultVisibility": "hidden",
-    "redhat.telemetry.enabled": false
+    "redhat.telemetry.enabled": false,
+    
+    "workbench.settings.applyToAllProfiles": [
+
+    ]
 }
