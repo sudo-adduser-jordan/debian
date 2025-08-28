@@ -62,5 +62,7 @@
     
     "workbench.settings.applyToAllProfiles": [
 
-    ]
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "search.smartCase": true
 }
