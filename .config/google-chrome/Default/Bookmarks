@@ -1,10 +1,10 @@
 {
-   "checksum": "c1233a4c6b86fd5cdd2f733d2d82afea",
+   "checksum": "9075935dc7ff714ca6f305c377a5d338",
    "roots": {
       "bookmark_bar": {
          "children": [ {
             "date_added": "13391160017386249",
-            "date_last_used": "13401238777890580",
+            "date_last_used": "13401401077797520",
             "guid": "392c6446-2f67-4480-9914-183687f41d08",
             "id": "5",
             "meta_info": {
@@ -36,29 +36,7 @@
             "type": "url",
             "url": "https://github.com/sudo-adduser-jordan/"
          }, {
-            "date_added": "13392345209041279",
-            "date_last_used": "13392345262205218",
-            "guid": "b7c3a72e-e784-4821-953e-7e643c318f0a",
-            "id": "13",
-            "meta_info": {
-               "power_bookmark_meta": ""
-            },
-            "name": "gentoo/guru: [MIRROR] GURU: repository of new packages maintained collaboratively by users",
-            "type": "url",
-            "url": "https://github.com/gentoo/guru"
-         }, {
             "children": [ {
-               "date_added": "13392246502544363",
-               "date_last_used": "0",
-               "guid": "a4c92bca-25fa-4b88-9efd-ab854df32723",
-               "id": "8",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Gentoo Forums :: View topic - remove pulseaudio-daemon to switch to pipewire",
-               "type": "url",
-               "url": "https://forums.gentoo.org/viewtopic-p-8791032.html?sid=b1d9c75fb1a7274f567e2b99b5c2fb60"
-            }, {
                "date_added": "13392889245955245",
                "date_last_used": "0",
                "guid": "a2d9ad44-155f-4218-b854-3f991fe30e76",
@@ -69,116 +47,6 @@
                "name": "Gentoo Packages",
                "type": "url",
                "url": "https://packages.gentoo.org/"
-            }, {
-               "date_added": "13393052279644095",
-               "date_last_used": "0",
-               "guid": "83cacddf-fd32-4258-a67d-fad767ad52a8",
-               "id": "22",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "DevDocs API Documentation",
-               "type": "url",
-               "url": "https://devdocs.io/"
-            }, {
-               "date_added": "13393134816883758",
-               "date_last_used": "13393885875838010",
-               "guid": "28dc7edb-c379-4cc7-a0e8-f54927570342",
-               "id": "24",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "adventofcode-elixir/lib/advent_of_code/solution/year_2020/day_01.ex at main · jzimbel/adventofcode-elixir",
-               "type": "url",
-               "url": "https://github.com/jzimbel/adventofcode-elixir/blob/main/lib/advent_of_code/solution/year_2020/day_01.ex"
-            }, {
-               "date_added": "13393889624526416",
-               "date_last_used": "13393891521103709",
-               "guid": "fea007dd-6b35-4597-88ce-cf4f4198c693",
-               "id": "26",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "advent-of-code-2020/day3 at master · rlamsal1256/advent-of-code-2020",
-               "type": "url",
-               "url": "https://github.com/rlamsal1256/advent-of-code-2020/tree/master/day3"
-            }, {
-               "date_added": "13393891342046713",
-               "date_last_used": "0",
-               "guid": "cb9039cc-34fd-4b1c-9bdc-a5f7dbc888a8",
-               "id": "27",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Advent of Code 2024",
-               "type": "url",
-               "url": "https://adventofcode.com/"
-            }, {
-               "date_added": "13395398414612762",
-               "date_last_used": "0",
-               "guid": "7a3491f0-c74d-43eb-92ae-a396faebc1ce",
-               "id": "29",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "C964/Riddle C964 PA Submittal.ipynb at main · jridd53/C964",
-               "type": "url",
-               "url": "https://github.com/jridd53/C964/blob/main/Riddle%20C964%20PA%20Submittal.ipynb"
-            }, {
-               "date_added": "13395398663455754",
-               "date_last_used": "13396051680944105",
-               "guid": "1ea41058-5ed9-4f9b-beb1-11ee660605ae",
-               "id": "30",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "hchen8566/C964-Diabetes-Prediciton-Model",
-               "type": "url",
-               "url": "https://github.com/hchen8566/C964-Diabetes-Prediciton-Model"
-            }, {
-               "date_added": "13395401484086355",
-               "date_last_used": "13395983473802871",
-               "guid": "970f1e7d-9740-4957-85bd-b3ca68a83131",
-               "id": "31",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Streamlit",
-               "type": "url",
-               "url": "https://c964-machine-learning-capstone-hao-chen.streamlit.app/"
-            }, {
-               "date_added": "13395479057825488",
-               "date_last_used": "0",
-               "guid": "58c11fee-d95a-4bbd-a3bf-cda5553b0876",
-               "id": "33",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Streamlit • A faster way to build and share data apps",
-               "type": "url",
-               "url": "https://streamlit.io/"
-            }, {
-               "date_added": "13395818430685493",
-               "date_last_used": "0",
-               "guid": "a9aaab8f-a4b8-4685-8d95-949a88639c9e",
-               "id": "35",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "thermodynamics - Does water boil faster in a shallow wide pan or a deep pot - Physics Stack Exchange",
-               "type": "url",
-               "url": "https://physics.stackexchange.com/questions/469686/does-water-boil-faster-in-a-shallow-wide-pan-or-a-deep-pot"
-            }, {
-               "date_added": "13401117006233002",
-               "date_last_used": "13401152980642789",
-               "guid": "e0870112-bce2-4b1d-99e4-6371c3d1d73c",
-               "id": "37",
-               "meta_info": {
-                  "power_bookmark_meta": ""
-               },
-               "name": "Protohackers/problem01/src/main/java/com/lumadd/protohackers/problem01/PrimeTime.java at main · LumaddT/Protohackers",
-               "type": "url",
-               "url": "https://github.com/LumaddT/Protohackers/blob/main/problem01/src/main/java/com/lumadd/protohackers/problem01/PrimeTime.java"
             } ],
             "date_added": "13392345218146675",
             "date_last_used": "0",
