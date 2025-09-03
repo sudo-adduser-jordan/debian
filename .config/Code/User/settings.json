@@ -9,7 +9,7 @@
         "terminal.background":"#000"
     },
     "workbench.startupEditor": "none",
-    "workbench.colorTheme": "Theme Mix",
+    "workbench.colorTheme": "GitHub Dark",
     "editor.inlayHints.enabled": "off",
     "[java]": {
         "editor.defaultFormatter": "redhat.java"

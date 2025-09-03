@@ -72,6 +72,7 @@
       <property name="square-icons" type="bool" value="true"/>
       <property name="icon-size" type="int" value="0"/>
       <property name="known-items" type="array">
+        <value type="string" value="toolbox"/>
         <value type="string" value="blueman"/>
         <value type="string" value="obs"/>
         <value type="string" value="vlc"/>
@@ -231,6 +232,7 @@
       <property name="category-icon-size" type="int" value="1"/>
       <property name="menu-height" type="int" value="32767"/>
       <property name="recent" type="array">
+        <value type="string" value="io.github.prateekmedia.appimagepool.desktop"/>
         <value type="string" value="github-desktop.desktop"/>
         <value type="string" value="thunar.desktop"/>
         <value type="string" value="xfce4-mime-settings.desktop"/>
