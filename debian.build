@@ -1,0 +1,58 @@
+# do not run, not finished
+# update
+apt update -y
+apt upgrade -y
+apt install nala -y
+
+# install
+nala install -y git
+nala install -y wget 
+nala install -y curl 
+nala install -y bat
+nala install -y extrepo
+
+nala install -y rofi
+nala install -y fastfetch
+
+nala install -y seahorse
+
+nala install -y golang
+nala install -y node
+nala install -y pnpm
+
+nala install -y zip
+nala install -y unzip
+nala install -y fzf
+
+# non free install
+extrepo enable librewolf
+nala update
+nala install -y librewolf
+
+wget -qO - https://mirror.mwt.me/shiftkey-desktop/gpgkey | gpg --dearmor | sudo tee /usr/share/keyrings/mwt-desktop.gpg > /dev/null
+sh -c 'echo "deb [arch=amd64 signed-by=/usr/share/keyrings/mwt-desktop.gpg] https://mirror.mwt.me/shiftkey-desktop/deb/ any main" > /etc/apt/sources.list.d/mwt-desktop.list'
+nala update
+nala install -y github-desktop
+
+# wget -O ~/Downloads/code https://code.visualstudio.com/docs/?dv=linux64_deb
+wget -O ~/Downloads/google-chrome https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+wget -O ~/Downloads/discord https://discord.com/api/download?platform=linux&format=deb
+
+# nala install -y ~/Downloads/code
+nala install -y ~/Downloads/discord
+nala install -y ~/Downloads/google-chrome
+
+curl -s "https://get.sdkman.io" | bash
+sdk install java 21.0.2-graalce
+
+# dotfiles
+# git clone https://github.com/sudo-adduser-jordan/debian
+git init ~/
+git remote add origin https://github.com/sudo-adduser-jordan/debian
+git pull origin main
+
+# reboot
+# reboot # required by - github-desktop gnome-keyrings
+echo
+echo "success!"
+echo "please reboot to apply all changes"

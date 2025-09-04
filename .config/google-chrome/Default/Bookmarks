@@ -1,0 +1,125 @@
+{
+   "checksum": "9075935dc7ff714ca6f305c377a5d338",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13391160017386249",
+            "date_last_used": "13401401077797520",
+            "guid": "392c6446-2f67-4480-9914-183687f41d08",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Sign On",
+            "type": "url",
+            "url": "https://access.wgu.edu/pingfed/as/authorization.oauth2?response_type=code&client_id=wgu&redirect_uri=https%3A%2F%2Fmy.wgu.edu%2Fpa%2Foidc%2Fcb&state=eyJ6aXAiOiJERUYiLCJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2Iiwia2lkIjoiUnowVEl5d3p4a1RKaGdkMWJ1UEIxOERsYzNNIiwic3VmZml4IjoiemlmSUdOLjE3NDY2ODY0NzYifQ..5gtohGOTR5H6K4-NWGYZIw.tjB0t4bpFZSgAKwpbZVurH9oeHz5NhgcLgcNfVpbuwVKKAFt1dQFREMor4-w64jNMNRjmG44K64uPJ1j_-NAp0Q5jq2W32I3DCYccLoubO4.9rRjzOtP3-bw6G03K-BpAQ&nonce=_R0d7UMYrH-4QjTwBnOK7b8A5VKVYcONxa_K54RA9ps&scope=openid%20profile%20address%20email%20phone&vnd_pi_requested_resource=https%3A%2F%2Fmy.wgu.edu%2F&vnd_pi_application_name=Student+Portal+PROD+%28my.wgu.edu%29"
+         }, {
+            "date_added": "13392344609129235",
+            "date_last_used": "13394067742003048",
+            "guid": "8dc7bbdc-8620-4687-8577-a97134276eae",
+            "id": "10",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "lostcoastwizard (lostcoastwizard)",
+            "type": "url",
+            "url": "https://github.com/lostcoastwizard"
+         }, {
+            "date_added": "13392344619361059",
+            "date_last_used": "13399197139006977",
+            "guid": "44a78151-92ad-40d7-85da-d193307ca71e",
+            "id": "11",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "sudo-adduser-jordan (jordan)",
+            "type": "url",
+            "url": "https://github.com/sudo-adduser-jordan/"
+         }, {
+            "children": [ {
+               "date_added": "13392889245955245",
+               "date_last_used": "0",
+               "guid": "a2d9ad44-155f-4218-b854-3f991fe30e76",
+               "id": "20",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Gentoo Packages",
+               "type": "url",
+               "url": "https://packages.gentoo.org/"
+            } ],
+            "date_added": "13392345218146675",
+            "date_last_used": "0",
+            "date_modified": "13401117006233002",
+            "guid": "b73a5eca-a388-4c4a-9c89-3174d3acd7df",
+            "id": "14",
+            "name": "dev",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345225217613",
+            "date_last_used": "0",
+            "date_modified": "13392345225217613",
+            "guid": "363ff84e-aeb1-4f64-9da5-60a624640f59",
+            "id": "15",
+            "name": "eve",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345231380560",
+            "date_last_used": "0",
+            "date_modified": "13392345231380560",
+            "guid": "b7352d78-db6d-4149-bd18-b90e9725b863",
+            "id": "16",
+            "name": "school",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345236654954",
+            "date_last_used": "0",
+            "date_modified": "13392345236654954",
+            "guid": "7965c151-ada1-429a-8519-0eef56d464e9",
+            "id": "17",
+            "name": "food",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13392345245177203",
+            "date_last_used": "0",
+            "date_modified": "13392345245177203",
+            "guid": "b44f04ad-0ef4-49a0-ada9-e2ff0024209e",
+            "id": "18",
+            "name": "sort",
+            "type": "folder"
+         } ],
+         "date_added": "13391159997903292",
+         "date_last_used": "0",
+         "date_modified": "13392345245177434",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13391159997903295",
+         "date_last_used": "0",
+         "date_modified": "13391160017386249",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13391159997903299",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

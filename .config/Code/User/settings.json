@@ -1,0 +1,68 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "vscode-icons",
+    "chat.commandCenter.enabled": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "workbench.colorCustomizations": {
+        "terminal.background":"#000"
+    },
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "GitHub Dark",
+    "editor.inlayHints.enabled": "off",
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    },
+    "explorer.compactFolders": false,
+    "editor.stickyScroll.enabled": false,
+    "workbench.tree.enableStickyScroll": false,
+    "window.confirmSaveUntitledWorkspace": false,
+    "explorer.confirmPasteNative": false,
+    "explorer.confirmDragAndDrop": false,
+
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    
+    "git.openRepositoryInParentFolders": "always",
+    "extensions.ignoreRecommendations": true,
+    "editor.fontFamily": "\"Hack Nerd Font\", Consolas, monospace",
+    "notebook.experimental.generate": false,
+    "cSpell.userWords": [
+        "annot",
+        "autopct",
+        "cleand",
+        "cmap",
+        "coolwarm",
+        "crosstab",
+        "dendrogram",
+        "figsize",
+        "histplot",
+        "kdeplot",
+        "missingno",
+        "multicollinearity",
+        "newaxis",
+        "Optuna",
+        "pairplot",
+        "scatterplot",
+        "selectbox",
+        "startangle",
+        "streamlit",
+        "suptitle",
+        "venv",
+        "violinplot",
+        "xlabel",
+        "xticklabels",
+        "ylabel",
+        "yticklabels"
+    ],
+    
+    "jupyter.askForKernelRestart": false,
+    "workbench.secondarySideBar.defaultVisibility": "hidden",
+    "redhat.telemetry.enabled": false,
+    
+    "workbench.settings.applyToAllProfiles": [
+
+    ],
+    "liveServer.settings.donotShowInfoMsg": true,
+    "search.smartCase": true
+}
