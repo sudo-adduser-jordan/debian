@@ -19,5 +19,6 @@
     <property name="inactivity-sleep-mode-on-battery" type="uint" value="1"/>
     <property name="lid-action-on-battery" type="uint" value="3"/>
     <property name="lid-action-on-ac" type="uint" value="3"/>
+    <property name="profile-on-ac" type="string" value="performance"/>
   </property>
 </channel>

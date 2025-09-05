@@ -82,6 +82,8 @@
         <value type="string" value="chrome_status_icon_1"/>
       </property>
       <property name="known-legacy-items" type="array">
+        <value type="string" value="wi-fi network connection “infosphere” active: infosphere (66%)"/>
+        <value type="string" value="ibus panel"/>
         <value type="string" value="polkit-mate-authentication-agent-1"/>
         <value type="string" value="solaar"/>
         <value type="string" value="hp-systray"/>
