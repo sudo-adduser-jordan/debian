@@ -6,10 +6,11 @@
   <property name="window-height" type="int" value="1230"/>
   <property name="columns" type="empty">
     <property name="sort-type" type="uint" value="1"/>
-    <property name="sort-id" type="uint" value="6"/>
+    <property name="sort-id" type="uint" value="7"/>
   </property>
   <property name="interface" type="empty">
     <property name="process-tree" type="bool" value="true"/>
     <property name="show-all-processes" type="bool" value="true"/>
+    <property name="handle-position" type="int" value="305"/>
   </property>
 </channel>
