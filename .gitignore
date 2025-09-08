@@ -18,8 +18,8 @@
 !Pictures/debian/*
 !.icons # fix correct submodule paths
 !.icons/*
-# !.themes
-# !.themes/*
+!.themes
+!.themes/*
 # !.fonts
 
 # config
