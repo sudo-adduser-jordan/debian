@@ -13,14 +13,17 @@
 !.zshrc
 
 # folders
-!Pictures
-!Pictures/debian
-!Pictures/debian/*
 !.icons     
 !.icons/*
 !.themes
 !.themes/*
 # !.fonts
+
+!Pictures
+!Pictures/plants
+!Pictures/plants/*
+!Pictures/debian
+!Pictures/debian/*
 
 # config
 !.config
