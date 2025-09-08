@@ -16,7 +16,7 @@
 !Pictures
 !Pictures/debian
 !Pictures/debian/*
-!.icons # fix correct submodule paths
+!.icons     
 !.icons/*
 !.themes
 !.themes/*
